@@ -1,10 +1,4 @@
-# Rappi Orders
-
-## Overview
-
-This is your new Kedro project for the [spaceflights tutorial](https://kedro.readthedocs.io/en/stable/tutorial/spaceflights_tutorial.html), which was generated using `Kedro 0.18.12`.
-
-Take a look at the [Kedro documentation](https://kedro.readthedocs.io) to get started.
+# Kedro, Docker, FastAPI machine learning project
 
 ## Rules and guidelines
 
