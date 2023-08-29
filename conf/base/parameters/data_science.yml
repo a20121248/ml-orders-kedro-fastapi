@@ -1,0 +1,9 @@
+model_options:
+  test_size: 0.2
+  random_state: 42
+  features:
+    - to_user_distance
+    - to_user_elevation
+    - total_earning
+    - hour
+    - taken_percentage

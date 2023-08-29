@@ -1,0 +1,1 @@
+{"orders": {"rows": 126868, "columns": 7, "file_size": 9144865}, "preprocessed_orders": {"rows": 93870, "columns": 9, "file_size": 3547573}, "store_features": {"rows": 834, "columns": 2, "file_size": 10761}, "model_input_table": {"rows": 93870, "columns": 10, "file_size": 3591645}, "X_train": {"rows": 75096, "columns": 5}, "X_test": {"rows": 18774, "columns": 5}}
